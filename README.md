@@ -12,7 +12,7 @@ I want to do this with websocket so it's real-time.
 Suggestions are welcome of course :-)
 
 
-sample output v0.13
+sample output v0.14
 
 00:05 countdown until next socket update cycle 2020-06-06 12:09:31 KAVABTC BUY LIMIT NEW quantity:21.00000000 price:0.00009018 stop:0.00000000 Base:0.00189378
 --------------------
