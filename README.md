@@ -12,7 +12,9 @@ I want to do this with websocket so it's real-time.
 Suggestions are welcome of course :-)
 
 
-sample output v0.16 to file
+sample output v0.16 to file:
+
+'''
 
 2020-06-08 15:52:56 BTCUSDT BUY LIMIT CANCELED quantity:0.00113900 price:9659.89000000 stop:0.00000000 Base:11.00261471
 --------------------
@@ -28,3 +30,4 @@ sample output v0.16 to file
 2020-06-08 15:56:00 BTCUSDT BUY STOP_LOSS_LIMIT CANCELED quantity:0.00111700 price:9846.85000000 stop:9815.63000000 Base:10.99893145
 2020-06-08 15:56:00 BTCUSDT BUY LIMIT_MAKER CANCELED quantity:0.00111700 price:9493.31000000 stop:0.00000000 Base:10.60402727
 --------------------
+'''
