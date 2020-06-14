@@ -12,4 +12,5 @@ I want to do this with websocket so it's real-time.
 Suggestions are welcome of course :-)
 
 
-sample output v0.16 to file see monitor.log
+sample output
+
